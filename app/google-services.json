@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "718155363123",
+    "firebase_url": "https://capstone-fa584.firebaseio.com",
+    "project_id": "capstone-fa584",
+    "storage_bucket": "capstone-fa584.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718155363123:android:1f7bbde87f98cd6d",
+        "android_client_info": {
+          "package_name": "mohamedmohsen.despacito"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718155363123-glri1c1ina94tqqlroo6rsj6740te145.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mohamedmohsen.despacito",
+            "certificate_hash": "b0771d49076b6202dd821b9c22029e207803e608"
+          }
+        },
+        {
+          "client_id": "718155363123-73b8aej4n4qu2g5fsbpcalnhc9o5up3k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbHngl6sKx2LJl46LU1wBF1rw5HjwAjyo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718155363123-73b8aej4n4qu2g5fsbpcalnhc9o5up3k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
